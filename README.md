@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 
 ## License
-This project follows MIT License [License](LICENSE)
+This project follows [MIT License](License.txt)
