@@ -7,12 +7,12 @@ A file organizer. Having a lots of file in a directory looks like messy. Sometim
 git clone https://github.com/mhhabib/finiz
 ```
 - Then setup a virtual environment ( below for windows )
-```
+```python
 python -m venv env
 env\Scripts\activate
 ```
 - Then install requirements.txt 
-```
+```python
 pip install -r requirements.txt
 ```
 - Run `python file_organizers.py`
