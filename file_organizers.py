@@ -17,7 +17,7 @@ extentions = {
     "Adobe": ['.psd', '.bmp', '.psb', '.ct', '.tiff', '.tif', '.eps', '.svg', '.ai', '.webp'],
     "Applications": ['.exe'],
     "Archives": ['.zip', '.rar', '.7zip', '.tar', '.iso', '.tar.gz', 'bz2'],
-    "Code": ['.py', '.java', '.c', '.cpp', '.rb', '.asm', '.php', '.html', '.css', '.js', '.lua', '.jar', '.o', '.obj', '.r', '.go', '.ts', 'sh'],
+    "Code": ['.py', '.java', '.c', '.cpp', '.rb', '.asm', '.php', '.html', '.css', '.js', '.lua', '.jar', '.o', '.obj', '.r', '.go', '.ts', 'sh', '.bat'],
     "Documents": ['.docx', '.doc', '.pdf', '.txt', '.ppt', '.pptx', '.ppsx', '.pptm',
                   '.docm', '.dotx', '.dotm', '.docb', '.xlsx', '.xlsm', '.xltx',
                   '.xltm', '.xlsb', '.xla', '.xlam', '.xll', '.xlw',
@@ -26,7 +26,7 @@ extentions = {
     "Music": ['.mp3', '.ogg', '.wav'],
     "Pictures": ['.jpg', '.jpeg', '.png', '.bmp', '.gif'],
     "Thumbnails": ['.CR2'],
-    "Videos": ['.mp4', '.3gp', '.avi', '.mov']
+    "Videos": ['.mp4', '.3gp', '.avi', '.mov', '.mkv', '.wmv', '.flv']
 }
 
 # If you have no '/' in the end
