@@ -22,7 +22,7 @@ extentions = {
                   '.docm', '.dotx', '.dotm', '.docb', '.xlsx', '.xlsm', '.xltx',
                   '.xltm', '.xlsb', '.xla', '.xlam', '.xll', '.xlw',
                   '.ACCDB', '.ACCDE', '.ACCDT', '.ACCDR', '.pub',
-                  '.potx', '.potm', '.ppam', '.ppsm', '.sldx', '.sldm', '.ext'],
+                  '.potx', '.potm', '.ppam', '.ppsm', '.sldx', '.sldm', '.ext', '.epub'],
     "Music": ['.mp3', '.ogg', '.wav'],
     "Pictures": ['.jpg', '.jpeg', '.png', '.bmp', '.gif'],
     "Thumbnails": ['.CR2'],
