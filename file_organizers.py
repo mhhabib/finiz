@@ -26,7 +26,7 @@ extentions = {
     "Music": ['.mp3', '.ogg', '.wav'],
     "Pictures": ['.jpg', '.jpeg', '.png', '.bmp', '.gif'],
     "Thumbnails": ['.CR2'],
-    "Videos": ['.mp4', '.3gp', '.avi']
+    "Videos": ['.mp4', '.3gp', '.avi', '.mov']
 }
 
 # If you have no '/' in the end
