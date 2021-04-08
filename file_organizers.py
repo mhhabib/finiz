@@ -17,7 +17,7 @@ extentions = {
     "Adobe": ['.psd', '.bmp', '.psb', '.ct', '.tiff', '.tif', '.eps', '.svg', '.ai', '.webp'],
     "Applications": ['.exe'],
     "Archives": ['.zip', '.rar', '.7zip', '.tar', '.iso', '.tar.gz', 'bz2'],
-    "Code": ['.py', '.java', '.c', '.cpp', '.rb', '.asm', '.php', '.html', '.css', '.js', '.lua', '.jar', '.o', '.obj', '.r'],
+    "Code": ['.py', '.java', '.c', '.cpp', '.rb', '.asm', '.php', '.html', '.css', '.js', '.lua', '.jar', '.o', '.obj', '.r', '.go', '.ts', 'sh'],
     "Documents": ['.docx', '.doc', '.pdf', '.txt', '.ppt', '.pptx', '.ppsx', '.pptm',
                   '.docm', '.dotx', '.dotm', '.docb', '.xlsx', '.xlsm', '.xltx',
                   '.xltm', '.xlsb', '.xla', '.xlam', '.xll', '.xlw',
