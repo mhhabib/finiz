@@ -25,7 +25,7 @@ extentions = {
                   '.potx', '.potm', '.ppam', '.ppsm', '.sldx', '.sldm', '.ext', '.epub'],
     "Music": ['.mp3', '.ogg', '.wav'],
     "Pictures": ['.jpg', '.jpeg', '.png', '.bmp', '.gif'],
-    "Thumbnails": ['.CR2'],
+    "Raws": ['.CR2'],
     "Videos": ['.mp4', '.3gp', '.avi', '.mov', '.mkv', '.wmv', '.flv']
 }
 
