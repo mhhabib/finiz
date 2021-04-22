@@ -14,8 +14,8 @@ else:
 
 # All possible type Extentions
 extentions = {
-    "Adobe": ['.psd', '.bmp', '.psb', '.ct', '.tiff', '.tif', '.eps', '.svg', '.ai', '.webp'],
-    "Applications": ['.exe'],
+    "Adobe": ['.psd', '.bmp', '.psb', '.ct', '.tiff', '.tif', '.eps', '.svg', '.ai', '.webp','.xd'],
+    "Applications": ['.exe','.msi'],
     "Archives": ['.zip', '.rar', '.7zip', '.tar', '.iso', '.tar.gz', 'bz2'],
     "Code": ['.py', '.java', '.c', '.cpp', '.rb', '.asm', '.php', '.html', '.css', '.js', '.lua', '.jar', '.o', '.obj', '.r', '.go', '.ts', 'sh', '.bat'],
     "Documents": ['.docx', '.doc', '.pdf', '.txt', '.ppt', '.pptx', '.ppsx', '.pptm',
